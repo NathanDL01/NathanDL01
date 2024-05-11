@@ -1,7 +1,7 @@
 # Who am I?
 
-- 👋 Hi, I’m Nathaniel De Leon, a BS Statistics Student at RTU
-- 📫 How to reach me --- Personal Email: nathanielandon1206@gmail.com
+- 👋 Hi, I’m Nathaniel De Leon,
+- 3rd BS Statistics Student at Rizal Technological University - Boni Campus (RTU-Boni)
 
 <!---
 NathanDL01/NathanDL01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
