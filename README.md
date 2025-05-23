@@ -1,7 +1,7 @@
-#👋 Hi there!
+# 👋 Hi there!
 Welcome to my GitHub! It seems you're here to learn more about me and what I do — let's dive in.
 
-##👨‍💻 Who am I?
+## Who am I?
 - I'm Nathaniel De Leon, but you can call me Nathan.
 - 21 years old, based in Mandaluyong City, Philippines.
 - Fourth-year BS Statistics student at Rizal Technological University - Boni Campus (RTU-Boni).
