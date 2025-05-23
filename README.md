@@ -1,18 +1,23 @@
-# 👋 Hi there!
-It seems you're hear to know more about me and what can I do?
+#👋 Hi there!
+Welcome to my GitHub! It seems you're here to learn more about me and what I do — let's dive in.
 
-## Who am I?
-- I am Nathaniel De Leon
-- Currently a fourth Year BS Statistics Student at Rizal Technological University - Boni Campus (RTU-Boni)
-- Registered Owner of JERN Cleaning Services
+##👨‍💻 Who am I?
+- I'm Nathaniel De Leon, but you can call me Nathan.
+- 21 years old, based in Mandaluyong City, Philippines.
+- Fourth-year BS Statistics student at Rizal Technological University - Boni Campus (RTU-Boni).
+- Registered Owner and Finance, Admin, and Digital Systems Staff at JERN Cleaning Services.
+- I also do statistics consulting for research and thesis projects — from Senior High School to Bachelor's level.
 
 ## Background
-I have a background in primarily statistics and education, but I enjoy exploring data and how it can create solution.
+- I focus on applying my statistical knowledge in the finance and biomedical fields.
+- I'm an avid fan of statistics and education, and I love working with data to develop meaningful, practical solutions.
+- I value efficiency, clarity, and a streamlined approach — whether I'm coding, analyzing data, or managing projects.
+- Currently, I'm learning more about programming and exploring different languages and tools that can help me grow as a data-driven problem solver.
 
-In my work, I value efficiency, clarity, and a streamlined approach—whether in coding, analyzing data, or managing projects. 
+##🔧 Technical Skills
+- Python 🐍
+- C++
+- Excel / SPSS / Jamovi
+- Currently learning more about: AI in Education, Learning with AI, and Finance Systems
 
-My technical skills include Pyhton and C++ and I’m constantly learning to expand and deepen my capabilities.
-
-Currently, I'm interested in AI in Education, Learning with AI, and Finance.
-
-Thanks for visiting my profile — Just give me a nudge! Hope we can connect, learn, and even create new for this world.
+Thanks for visiting my profile — feel free to connect! I'm always open to collaborating, learning, and building solutions that make a difference.
